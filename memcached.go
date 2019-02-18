@@ -2,7 +2,7 @@ package memcached
 
 import (
 	"github.com/Terry-Mao/gomemcache/memcache"
-	"github.com/lovernote/util/zip"
+	"github.com/lovenotes/util/zip"
 )
 
 type Memcached struct {
